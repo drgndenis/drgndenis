@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @drgndenis
 - 👀 I’m interested in Blockchain and Mobile Apps
+- 🔖 I know C#, Java and Python.
 - 🌱 I’m currently learning Dart & Flutter
 - - 📫 How to reach me: denisdrgnn98@gmail.com
 
