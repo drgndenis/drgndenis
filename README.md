@@ -2,7 +2,7 @@
 - 👀 I’m interested in Blockchain and Mobile Apps
 - 🔖 I know C#, Java and Python.
 - 🌱 I’m currently learning Dart & Flutter
-- - 📫 How to reach me: denisdrgnn98@gmail.com
+- - 📫 How to reach me: draganserkisdenis@gmail.com
 
 <!---
 drgndenis/drgndenis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
